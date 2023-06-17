@@ -2,6 +2,14 @@
 
 This is a Flask application with user authentication using Flask-Login. It allows users to register, login, and view a home page.
 
+#### Login
+file:///home/ai/Pictures/Screenshots/Screenshot%20from%202023-06-17%2014-08-56.png
+#### Join
+file:///home/ai/Pictures/Screenshots/Screenshot%20from%202023-06-17%2014-09-18.png
+
+#### Home
+ file:///home/ai/Pictures/Screenshots/Screenshot%20from%202023-06-17%2014-09-41.png
+
 ## Installation
 
 1. Clone the repository:
