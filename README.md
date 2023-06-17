@@ -3,12 +3,15 @@
 This is a Flask application with user authentication using Flask-Login. It allows users to register, login, and view a home page.
 
 #### Login
-file:///home/ai/Pictures/Screenshots/Screenshot%20from%202023-06-17%2014-08-56.png
+![Screenshot from 2023-06-17 14-08-56](https://github.com/brijesh-py/flask-login/assets/134686367/39c9b037-65f4-46ef-9cc7-5ed92cdc85af)
+
 #### Join
-file:///home/ai/Pictures/Screenshots/Screenshot%20from%202023-06-17%2014-09-18.png
+![Screenshot from 2023-06-17 14-09-18](https://github.com/brijesh-py/flask-login/assets/134686367/6a68c79b-b2a2-43e5-93a9-615175628935)
+
 
 #### Home
- file:///home/ai/Pictures/Screenshots/Screenshot%20from%202023-06-17%2014-09-41.png
+![Screenshot from 2023-06-17 14-09-41](https://github.com/brijesh-py/flask-login/assets/134686367/43ced19f-54a2-46b5-a261-24916de02914)
+
 
 ## Installation
 
